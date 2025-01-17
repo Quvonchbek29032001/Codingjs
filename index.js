@@ -66,3 +66,15 @@
 // }
 //
 // console.log(diff21(10))
+
+// --------------------------------------------------------------------------------------------
+
+// backAround('cat') → tcatt
+// backAround('Hello') → oHelloo
+// backAround('a') → aaa
+
+// function backAround(str){
+//     return str[str.length-1]+str+str[str.length-1]
+// }
+//
+// console.log(backAround('a'))
